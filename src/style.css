@@ -12,14 +12,14 @@ body {
 }
 .iam {
   color: rgb(178, 225, 168);
-  font-size: 10px;
+  font-size: 20px;
   padding: 15px;
   font-family: consolas;
 }
 .text {
   color: white;
   border-right: 2px solid rgb(178, 225, 168);
-  font-size: 10px;
+  font-size: 20px;
   font-family: consolas;
   color: rgb(178, 225, 168);
 }
